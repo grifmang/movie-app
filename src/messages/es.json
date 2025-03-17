@@ -1,0 +1,155 @@
+{
+  "app": {
+    "title": "Generador de 1001 Películas",
+    "tagline": "Una película al día"
+  },
+  "nav": {
+    "home": "Inicio",
+    "todaysMovie": "Película del Día",
+    "moviesLibrary": "Biblioteca de Películas",
+    "watchlist": "Lista de Seguimiento",
+    "statistics": "Estadísticas",
+    "profile": "Perfil",
+    "settings": "Configuración",
+    "login": "Iniciar Sesión",
+    "logout": "Cerrar Sesión"
+  },
+  "home": {
+    "title": "1001 Películas que Debes Ver Antes de Morir",
+    "subtitle": "Un libro con 1001 películas elegidas por un panel de críticos de cine como las más importantes e influyentes en la historia del cine.",
+    "tagline1": "Este sitio te ayudará a verlas todas.",
+    "tagline2": "Una película al día.",
+    "howItWorks": "CÓMO FUNCIONA",
+    "getStarted": {
+      "title": "Comenzar",
+      "description": "Simplemente ingrese un nombre a continuación para comenzar su viaje cinematográfico diario y revelar su primera película."
+    },
+    "exploreMovies": {
+      "title": "Explorar Películas",
+      "description": "Reciba recomendaciones diarias del libro 1001 Películas que Debes Ver Antes de Morir. Cada película se presenta con el póster y un breve resumen."
+    },
+    "rate": {
+      "title": "Calificar",
+      "description": "Califica y reseña tus películas diarias y sigue tu progreso con estadísticas personalizadas. Interactúa con otros usuarios leyendo sus reseñas."
+    }
+  },
+  "login": {
+    "title": "Comienza tu Viaje",
+    "name": "Nombre",
+    "namePlaceholder": "Tu nombre",
+    "nameHelp": "Un nombre para tu proyecto. Asegúrate de recordarlo.",
+    "email": "Correo electrónico",
+    "emailPlaceholder": "Tu correo electrónico (opcional)",
+    "emailHelp": "Opcional. Ingresa tu correo electrónico para recibir el nombre de tu proyecto y recordatorios diarios.",
+    "expandSettings": "Expandir más configuraciones opcionales",
+    "hideSettings": "Ocultar configuraciones opcionales",
+    "dailyReminders": "Envíame recordatorios diarios",
+    "newsletter": "Suscribirme al boletín informativo",
+    "go": "Ir",
+    "signingUp": "Registrando..."
+  },
+  "movie": {
+    "yourDailyMovie": "Tu Película Diaria",
+    "fromBook": "Del libro 1001 Películas que Debes Ver Antes de Morir",
+    "directedBy": "Dirigida por",
+    "country": "País",
+    "genre": "Género",
+    "releaseDate": "Fecha de Estreno",
+    "language": "Idioma",
+    "runtime": "Duración",
+    "cinematography": "Fotografía",
+    "musicBy": "Música por",
+    "synopsis": "Sinopsis",
+    "cast": "Reparto",
+    "awards": "Premios",
+    "rating": "Calificación",
+    "rateThisMovie": "Califica esta película",
+    "youveWatched": "¡Has visto esta película!",
+    "remove": "Eliminar",
+    "markAsWatched": "Marcar como Vista",
+    "viewOnIMDB": "Ver en IMDb",
+    "shareMovie": "Compartir esta película:",
+    "addToWatchlist": "Añadir a Lista",
+    "inWatchlist": "En Lista",
+    "comeBackTomorrow": "¡Vuelve mañana para tu próxima recomendación de película!",
+    "viewProfile": "Ver tu perfil"
+  },
+  "profile": {
+    "title": "Perfil de {name}",
+    "joinedOn": "Se unió el {date}",
+    "editProfileSettings": "Editar configuración de perfil",
+    "yourProgress": "Tu Progreso",
+    "moviesWatched": "Películas vistas",
+    "percentComplete": "{percent}% completo. {remaining} películas por ver.",
+    "getTodaysMovie": "Obtener película del día",
+    "goToHome": "Ir a inicio",
+    "yourRecentlyWatchedMovies": "Tus Películas Vistas Recientemente",
+    "noMoviesWatched": "Aún no has visto ninguna película.",
+    "getStarted": "Comenzar",
+    "recommendedForYou": "Recomendado para Ti",
+    "viewAll": "Ver todas",
+    "basedOnInterest": "Basado en tu interés en {genres}"
+  },
+  "watchlist": {
+    "title": "Tu Lista de Seguimiento",
+    "subtitle": "Películas que quieres ver en el futuro",
+    "empty": "Tu lista de seguimiento está vacía",
+    "emptyDescription": "Navega por las películas y agrégalas a tu lista de seguimiento para llevar un registro de lo que quieres ver",
+    "browseMovies": "Explorar Películas",
+    "viewDetails": "Ver Detalles"
+  },
+  "movies": {
+    "title": "Biblioteca de Películas",
+    "subtitle": "Explora y descubre películas del libro 1001 Películas que Debes Ver Antes de Morir",
+    "searchMovies": "Buscar Películas",
+    "searchPlaceholder": "Buscar por título, director o palabras clave...",
+    "genre": "Género",
+    "allGenres": "Todos los géneros",
+    "director": "Director",
+    "allDirectors": "Todos los directores",
+    "decade": "Década",
+    "allDecades": "Todas las décadas",
+    "country": "País",
+    "allCountries": "Todos los países",
+    "resetFilters": "Restablecer Filtros",
+    "moviesFound": "{count} {count, plural, one {película encontrada} other {películas encontradas}}",
+    "noMoviesFound": "No se encontraron películas",
+    "tryAdjusting": "Intenta ajustar tus filtros o término de búsqueda",
+    "resetAllFilters": "Restablecer Todos los Filtros",
+    "directedBy": "Dirigida por",
+    "watched": "Vista"
+  },
+  "stats": {
+    "title": "Tus Estadísticas de Películas",
+    "subtitle": "Sigue tu progreso y analiza tus hábitos de visualización de películas",
+    "progressOverview": "Resumen de Progreso",
+    "moviesWatched": "Películas Vistas",
+    "moviesRemaining": "Películas Restantes",
+    "averageRating": "Calificación Promedio",
+    "na": "N/D",
+    "overallProgress": "Progreso General",
+    "atCurrentRate": "A tu ritmo actual",
+    "estimatedCompletion": "Fecha estimada de finalización: {date}",
+    "genreBreakdown": "Desglose por Género",
+    "topDirectors": "Mejores Directores",
+    "moviesByDecade": "Películas por Década",
+    "yourHighestRatedMovies": "Tus Películas Mejor Calificadas"
+  },
+  "settings": {
+    "title": "Configuración de la Cuenta",
+    "subtitle": "Administra tu perfil y preferencias",
+    "name": "Nombre",
+    "email": "Correo electrónico",
+    "preferences": "Preferencias",
+    "receiveEmailUpdates": "Recibir boletín informativo y actualizaciones por correo electrónico",
+    "dailyMovieReminders": "Enviarme recordatorios diarios de películas",
+    "saveChanges": "Guardar Cambios",
+    "backToProfile": "Volver al Perfil",
+    "logout": "Cerrar Sesión",
+    "settingsUpdated": "¡Configuración actualizada con éxito!"
+  },
+  "common": {
+    "loading": "Cargando...",
+    "error": "Ocurrió un error"
+  }
+}

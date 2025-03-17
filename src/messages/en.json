@@ -1,0 +1,155 @@
+{
+  "app": {
+    "title": "1001 Movies Generator",
+    "tagline": "One movie a day"
+  },
+  "nav": {
+    "home": "Home",
+    "todaysMovie": "Today's Movie",
+    "moviesLibrary": "Movies Library",
+    "watchlist": "Watchlist",
+    "statistics": "Statistics",
+    "profile": "Profile",
+    "settings": "Settings",
+    "login": "Login",
+    "logout": "Logout"
+  },
+  "home": {
+    "title": "1001 Movies You Must See Before You Die",
+    "subtitle": "A book with 1001 movies chosen by a panel of film critics to be the most important and influential in cinema history.",
+    "tagline1": "This site will help you watch them all.",
+    "tagline2": "One movie a day.",
+    "howItWorks": "HOW IT WORKS",
+    "getStarted": {
+      "title": "Get Started",
+      "description": "Simply enter a name below to start your daily cinematic journey and reveal your first movie."
+    },
+    "exploreMovies": {
+      "title": "Explore Movies",
+      "description": "Receive daily recommendations from the 1001 Movies You Must See Before You Die book. Each movie is presented with the poster and a brief summary."
+    },
+    "rate": {
+      "title": "Rate",
+      "description": "Rate and review your daily movies and track your progress with personalized stats. Engage with other users by reading their reviews."
+    }
+  },
+  "login": {
+    "title": "Start Your Journey",
+    "name": "Name",
+    "namePlaceholder": "Your name",
+    "nameHelp": "A name for your project. Be sure to remember it.",
+    "email": "Email",
+    "emailPlaceholder": "Your email (optional)",
+    "emailHelp": "Optional. Enter your email to receive your project name and daily reminders.",
+    "expandSettings": "Expand more optional settings",
+    "hideSettings": "Hide more optional settings",
+    "dailyReminders": "Send me daily reminders",
+    "newsletter": "Sign me up for the newsletter",
+    "go": "Go",
+    "signingUp": "Signing up..."
+  },
+  "movie": {
+    "yourDailyMovie": "Your Daily Movie",
+    "fromBook": "From the 1001 Movies You Must See Before You Die list",
+    "directedBy": "Directed by",
+    "country": "Country",
+    "genre": "Genre",
+    "releaseDate": "Release Date",
+    "language": "Language",
+    "runtime": "Runtime",
+    "cinematography": "Cinematography",
+    "musicBy": "Music By",
+    "synopsis": "Synopsis",
+    "cast": "Cast",
+    "awards": "Awards",
+    "rating": "Rating",
+    "rateThisMovie": "Rate this movie",
+    "youveWatched": "You've watched this movie!",
+    "remove": "Remove",
+    "markAsWatched": "Mark as Watched",
+    "viewOnIMDB": "View on IMDb",
+    "shareMovie": "Share this movie:",
+    "addToWatchlist": "Add to Watchlist",
+    "inWatchlist": "In Watchlist",
+    "comeBackTomorrow": "Come back tomorrow for your next movie recommendation!",
+    "viewProfile": "View your profile"
+  },
+  "profile": {
+    "title": "{name}'s Profile",
+    "joinedOn": "Joined on {date}",
+    "editProfileSettings": "Edit Profile Settings",
+    "yourProgress": "Your Progress",
+    "moviesWatched": "Movies watched",
+    "percentComplete": "{percent}% complete. {remaining} movies left to watch.",
+    "getTodaysMovie": "Get today's movie",
+    "goToHome": "Go to home",
+    "yourRecentlyWatchedMovies": "Your Recently Watched Movies",
+    "noMoviesWatched": "You haven't watched any movies yet.",
+    "getStarted": "Get started",
+    "recommendedForYou": "Recommended for You",
+    "viewAll": "View all",
+    "basedOnInterest": "Based on your interest in {genres}"
+  },
+  "watchlist": {
+    "title": "Your Watchlist",
+    "subtitle": "Movies you want to watch in the future",
+    "empty": "Your watchlist is empty",
+    "emptyDescription": "Browse movies and add them to your watchlist to keep track of what you want to watch",
+    "browseMovies": "Browse Movies",
+    "viewDetails": "View Details"
+  },
+  "movies": {
+    "title": "Movie Library",
+    "subtitle": "Explore and discover movies from the 1001 Movies You Must See Before You Die list",
+    "searchMovies": "Search Movies",
+    "searchPlaceholder": "Search by title, director, or keywords...",
+    "genre": "Genre",
+    "allGenres": "All genres",
+    "director": "Director",
+    "allDirectors": "All directors",
+    "decade": "Decade",
+    "allDecades": "All decades",
+    "country": "Country",
+    "allCountries": "All countries",
+    "resetFilters": "Reset Filters",
+    "moviesFound": "{count} {count, plural, one {movie} other {movies}} found",
+    "noMoviesFound": "No movies found",
+    "tryAdjusting": "Try adjusting your filters or search term",
+    "resetAllFilters": "Reset All Filters",
+    "directedBy": "Directed by",
+    "watched": "Watched"
+  },
+  "stats": {
+    "title": "Your Movie Statistics",
+    "subtitle": "Track your progress and analyze your movie watching habits",
+    "progressOverview": "Progress Overview",
+    "moviesWatched": "Movies Watched",
+    "moviesRemaining": "Movies Remaining",
+    "averageRating": "Average Rating",
+    "na": "N/A",
+    "overallProgress": "Overall Progress",
+    "atCurrentRate": "At your current rate",
+    "estimatedCompletion": "Estimated completion date: {date}",
+    "genreBreakdown": "Genre Breakdown",
+    "topDirectors": "Top Directors",
+    "moviesByDecade": "Movies by Decade",
+    "yourHighestRatedMovies": "Your Highest Rated Movies"
+  },
+  "settings": {
+    "title": "Account Settings",
+    "subtitle": "Manage your profile and preferences",
+    "name": "Name",
+    "email": "Email",
+    "preferences": "Preferences",
+    "receiveEmailUpdates": "Receive newsletter and updates via email",
+    "dailyMovieReminders": "Send me daily movie reminders",
+    "saveChanges": "Save Changes",
+    "backToProfile": "Back to Profile",
+    "logout": "Logout",
+    "settingsUpdated": "Settings updated successfully!"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred"
+  }
+}
